@@ -1,0 +1,7 @@
+{
+  "name": "i6-ng15-play",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
